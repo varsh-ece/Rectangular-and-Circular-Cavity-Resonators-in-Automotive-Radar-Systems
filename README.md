@@ -15,17 +15,18 @@ By measuring the time delay, frequency shift (Doppler effect), and phase differe
 
 For precise and stable performance, the radar transmitter and receiver circuits require components that can operate efficiently at high frequencies — and this is where cavity resonators come in.
 
-# RECTANGULAR AND CIRCULAR CAVITY RESONATORS :
+## RECTANGULAR AND CIRCULAR CAVITY RESONATORS :
 
 A cavity resonator is a hollow conducting structure that traps and sustains electromagnetic fields at specific resonant frequencies.
 
-Rectangular Cavity Resonator:
-<img width="600" height="541" alt="image" src="https://github.com/user-attachments/assets/2cd3e38b-e4db-48d1-a209-1a635374c89a" />
+# Rectangular Cavity Resonator:
+<img width="494" height="380" alt="image" src="https://github.com/user-attachments/assets/22b855c4-67cf-4ac8-b519-bd8a8cee311e" />
+
 
 Constructed from a rectangular waveguide section with closed ends. It supports TE and TM modes, providing clear control over field patterns.
 It is often used in oscillators and filters in radar front-ends because of its simplicity and compactness.
 
-Circular (Cylindrical) Cavity Resonator:
+# Circular (Cylindrical) Cavity Resonator:
 
 <img width="429" height="384" alt="image" src="https://github.com/user-attachments/assets/5ac39cf4-9b5c-4116-95c4-a0ddc4f24501" />
 
@@ -44,11 +45,11 @@ A stable and narrow frequency ensures accurate distance and velocity measurement
 
 
 
-1).Bandpass Filters:
+# 1).Bandpass Filters:
 Rectangular cavity resonators are used to filter the transmitted and received signals, allowing only the desired frequency band (e.g., 76–81 GHz) to pass through.
 This helps reduce noise and prevents interference between multiple radar systems operating nearby.
 
-2).Frequency Multipliers and Couplers:
+# 2).Frequency Multipliers and Couplers:
 The cavity structures enable efficient frequency multiplication (for higher radar bands) and coupling between transmitter and receiver antennas.
 
 G <img width="1072" height="351" alt="image" src="https://github.com/user-attachments/assets/c615b76d-25dc-4312-b225-a9ab726de822" />
@@ -94,6 +95,13 @@ This is one reason circular cavities are preferred for oscillators in 77 GHz rad
 
 <img width="1064" height="820" alt="image" src="https://github.com/user-attachments/assets/f7c6fd2c-7387-422e-9442-4b8d2ee534ee" />
 
+
+# PROBLEM :
+
+
+<img width="896" height="160" alt="image" src="https://github.com/user-attachments/assets/c69af896-e6dd-4953-9a8f-e4bf4ad9ce17" />
+
+<img width="997" height="864" alt="image" src="https://github.com/user-attachments/assets/2b1393d3-ee10-47c1-86e8-10b613d33ff1" />
 
 
 
